@@ -95,10 +95,10 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/Alive2212/LaravelModelEventService.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/Alive2212/LaravelModelEventService.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/Alive2212/LaravelModelEventService
+[link-packagist]: https://packagist.org/packages/alive2212/laravel-model-event-service
 [link-travis]: https://travis-ci.org/Alive2212/LaravelModelEventService
 [link-scrutinizer]: https://scrutinizer-ci.com/g/Alive2212/LaravelModelEventService/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/Alive2212/LaravelModelEventService
-[link-downloads]: https://packagist.org/packages/Alive2212/LaravelModelEventService
+[link-downloads]: https://packagist.org/packages/alive2212/laravel-model-event-service
 [link-author]: https://github.com/https://github.com/Alive2212/
 [link-contributors]: ../../contributors
