@@ -1,5 +1,5 @@
 {
-    "name": "Alive2212/LaravelModelEventService",
+    "name": "alive2212/laravel-model-event-service",
     "type": "library",
     "description": "This package to simplisafe model events to fire some jobs",
     "keywords": [
